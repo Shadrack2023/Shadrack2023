@@ -2,7 +2,7 @@
  Cybersecurity Analyst | Penetration Tester | Security Researcher | Leader
 
 🛡️ About Me
-I'm a passionate and hands-on Cybersecurity Analyst with a strong focus on penetration testing, vulnerability assessments, and red team tactics. With a background as a High School Captain and current Campus Security Lead at Meru University, I blend technical expertise with leadership and communication skills.
+I'm a passionate and hands-on Cybersecurity Analyst with a strong focus on penetration testing, vulnerability assessments, and red team operation. With a background as a High School Captain and current Campus Security Lead at Meru University, I blend technical expertise with leadership and communication skills.
 I thrive on breaking things (ethically), learning from real-world CVEs, and building proof-of-concepts for security flaws. From external VAPT engagements for financial institutions to API security testing for SaaS platforms, I enjoy every layer of the security stack.
 ---
  🛠️ Skills & Focus Areas
