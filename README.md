@@ -1,70 +1,50 @@
-- 👋 Hi, I’m @Shadrack2023
- Cybersecurity Analyst | Penetration Tester | Security Researcher | Leader
+# Hi, I'm Shadrack Otieno Mwabe 👋
 
-🛡️ About Me
-I'm a passionate and hands-on Cybersecurity Analyst with a strong focus on penetration testing, vulnerability assessments, and red team operation. With a background as a High School Captain and current Campus Security Lead at Meru University, I blend technical expertise with leadership and communication skills.
-I thrive on breaking things (ethically), learning from real-world CVEs, and building proof-of-concepts for security flaws. From external VAPT engagements for financial institutions to API security testing for SaaS platforms, I enjoy every layer of the security stack.
----
- 🛠️ Skills & Focus Areas
+### Penetration Tester | Offensive Security Analyst
 
-- Penetration Testing (Network, Web, AD, APIs)
-- Vulnerability Assessment & Reporting
-- Active Directory Attacks (Kerberoasting, Enumeration, Relay Attacks, Active Directory Certificate Service Attacks)
-- Internal Network Assessments
-- API Security Testing & Endpoints Fuzzing(Postman & BurpSuite)
-- Linux (Kali) & Windows Security Environments
-- Python & Bash Scripting for Automation
-- CTF Solving & Offensive Security Research
----
-🏆 Leadership & Community Roles
+I break into things ethically and write the report that helps you fix them. I specialize in **Active Directory exploitation, API security, and full-scope web/mobile VAPT** for financial institutions, healthcare providers, SaaS platforms, and insurers — pairing an attacker's mindset with clear, business-focused reporting that turns exploit chains into prioritized remediation.
 
-- 🏅 High School Captain – Leading with discipline, coordination, and responsibility from a young age.
-- 🛡️ Campus Security Lead – Meru University**  
-Driving cybersecurity awareness, hosting workshops, and mentoring upcoming ethical hackers on campus.
+🎯 *Currently pursuing the OSCP/OSEP path and going deeper on Active Directory and cloud attack surfaces.*
 
 ---
 
-## 🚀 Recent Projects & Labs
+## 🛠️ Core Skills
 
-- Liberty Life VAPT --> Internal & External – Full Active Directory and internal app penetration testing.
-- Botus Tech Inc. Internship Projects – External VAPT, API security audits (including OpenAPI exposures and .git directory dumps).
-- Kerberoasting and AD Enumeration Labs – Using tools like BloodHound, Certipy, Responder, CrackMapExec, and more.
-- Madison VAPT --> Internal & External
-- API Endpoint Fuzzing for IDOR and Auth Bypass
-- Custom CVE Exploits – Including CVE-2025-24071 and CVE-2025-24996.
+- **Active Directory & Internal** — attack-path analysis, Kerberoasting, NTLM relay, authentication coercion, AD CS abuse, lateral movement, privilege escalation, GPO & share review
+- **API & Web** — authn/authz testing, IDOR/BOLA, broken access control, business-logic flaws, endpoint enumeration & fuzzing, OWASP API Top 10
+- **Network & Infrastructure** — internal/external VAPT, recon, service enumeration, firewall & NAC review
+- **Mobile** — static (MobSF/JADX) & dynamic analysis, hardcoded-secret detection, insecure storage, backend API trust
+- **Scripting** — Python, Bash · Frameworks: OWASP, MITRE ATT&CK, NIST, PTES
 
----
+## 🧰 Tooling
 
- 📚 Currently Learning
-
-- Advanced Active Directory Attacks  
-- Kerberos Relay Techniques  
-- Offensive Security Certifications Path (OSCP/OSEP)  
-- Cloud Penetration Testing  
-- API Security Deep Dive  
+`Kali Linux` · `Burp Suite` · `Nmap` · `BloodHound` · `Impacket` · `NetExec` · `Certipy` · `Responder` · `Kerbrute` · `ffuf` · `sqlmap` · `Wireshark` · `Metasploit` · `Docker`
 
 ---
 
- ✨ Tools I Work With
+## 📂 Featured Repositories
 
-`Kali Linux` | `Burp Suite` | `Nmap` | `Wireshark` | `Metasploit` | `BloodHound` | `Impacket` | `Responder` | `Certipy` | `CrackMapExec` | `Gobuster` | `SQLMap` | `Python` | `Bash` | `Netcat` | `Docker` | `Git` -------> etc
+| Repo | What's inside |
+|------|---------------|
+| [**htb-walkthroughs**](https://github.com/Shadrack2023/htb-walkthroughs) | Hack The Box machine writeups (retired & seasonal) |
+| [**thm-walkthroughs**](https://github.com/Shadrack2023/thm-walkthroughs) | TryHackMe room walkthroughs |
+| [**Sec-Research**](https://github.com/Shadrack2023/Sec-Research) | Methodology notes, tooling guides & vuln deep-dives |
+| [**pentest-lab-reports**](https://github.com/Shadrack2023/pentest-lab-reports) | Full VAPT-style reports from practice labs |
+| [**otis-healthcare-system**](https://github.com/Shadrack2023/otis-healthcare-system) | Full-stack healthcare app (React + TypeScript) |
+
+## 🏅 Certifications
+
+- API Penetration Testing — **APISec University** (2026)
+- **Cisco** Ethical Hacker & Network Defense (2025)
+- Cybersecurity Analyst — **Cyber Shujaa** (2024)
+
+🎓 B.Sc. Computer Science — Meru University of Science and Technology
 
 ---
 
-💬 Let's Connect
+## 📫 Connect
 
-- Email: shageee2023@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/shadrack-mwabe-bb7a8a2b1 
+- 📧 shageee2023@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shadrack-mwabe-bb7a8a2b1)
 
----
- ⚡ Fun Fact:
-
-> *"The flag, dear brutus, is not in our stars... but in our skills to find vulnerabilities where others see none."*
-
----
-
-
-<!---
-Shadrack2023/Shadrack2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *"The flag, dear Brutus, is not in our stars — but in our skill to find vulnerabilities where others see none."*
