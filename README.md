@@ -30,9 +30,20 @@ Field-tested tooling from real internal engagements. Each one exists because the
 - **Mobile:** static (MobSF, JADX) and dynamic analysis, hardcoded-secret detection, insecure storage, backend API trust
 - **Scripting:** Python, Bash · Frameworks: OWASP, MITRE ATT&CK, NIST, PTES
 
-## Tooling
+## Arsenal
 
-`Kali Linux` · `Burp Suite` · `Nmap` · `BloodHound` · `Impacket` · `NetExec` · `Certipy` · `Responder` · `Kerbrute` · `ffuf` · `sqlmap` · `Wireshark` · `Metasploit` · `Docker`
+```text
+[recon]    Nmap · httpx · nuclei · ffuf · dirsearch · whois · Shodan · Censys · fierce
+[ad]       Responder · ntlmrelayx · Impacket · NetExec · mitm6 · PetitPotam · Coercer · Certipy
+           Rubeus · Kerbrute · BloodHound · bloodyAD · secretsdump · lsassy
+[web/api]  Burp Suite · sqlmap · nuclei · ffuf · jwt_tool · Nikto · mitmproxy · Postman
+[mobile]   MobSF · JADX · Frida · objection · adb
+[creds]    hashcat · John the Ripper · Hydra · Medusa · SecLists
+[pivot]    Ligolo-ng · Chisel · proxychains · socat · evil-winrm · SSH
+[dfir/db]  Volatility 3 · PowerUpSQL · mssqlclient · gitleaks
+```
+
+Core platform: `Kali Linux` · `Docker` · `Wireshark` · `Metasploit`
 
 ---
 
